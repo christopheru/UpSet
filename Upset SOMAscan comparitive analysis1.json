@@ -9,7 +9,5 @@
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 26 }
-	],
-	"author": "Christopher Uschnig",
-	"description": "SOMAScan vs RBM and RNAseq marker comparison"
+	]
 }
