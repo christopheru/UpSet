@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://raw.githubusercontent.com/christopheru/UpSet/master/Row%3BLCN2%3BSERPINA1%3BSLIP.csv",
 	"name": "Marker overlap",
 	"header": 0,
 	"separator": ";",
